@@ -77,7 +77,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: mulatyir@gmail.com/mulatu.yirga@wu.edu.et 
-- 🌐 GitHub: [Your GitHub](https://github.com/mulatu-yirga)  
+- 🌐 GitHub: [Your GitHub](https://github.com/personal-website)  
 - 🌐 Personal Website: [Link](https://mulatu.gt.tc/)  
 
 ---
