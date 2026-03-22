@@ -10,15 +10,15 @@
 
 ## 🎓 Academic Profile
 
-- 👨‍🏫 Lecturer, Department of Information Technology – Wollo University  
-- 🎓 MSc in Computer Networks and Communications  
-- 📖 Google Scholar: [Link](https://scholar.google.com/citations?user=B21Onm4AAAAJ&hl=en)  
-- 🔗 ORCID: [0009-0003-0066-9935](https://orcid.org/my-orcid?orcid=0009-0003-0066-9935)  
-- 🔗 ResearchGate: [Mulatu Beyene](https://www.researchgate.net/profile/Mulatu-Beyene)  
+👨‍🏫 Lecturer, Department of Information Technology – Wollo University  
+🎓 MSc in Computer Networks and Communications  
+📖 Google Scholar: [Link](https://scholar.google.com/citations?user=B21Onm4AAAAJ&hl=en)  
+🔗 ORCID: [0009-0003-0066-9935](https://orcid.org/my-orcid?orcid=0009-0003-0066-9935)  
+🔗 ResearchGate: [Mulatu Beyene](https://www.researchgate.net/profile/Mulatu-Beyene)  
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Computer Networks  
 - ML/DL/IoT 
@@ -29,43 +29,43 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🌐 Personal Website
+###  Personal Website
 - Built using HTML, CSS, PHP, and MySQL  
 - Features: Authentication, dynamic content, database integration  
 - Demonstrates full-stack development skills  
-- 🔗 Live Demo: [Your Website](https://mulatu.gt.tc/)  
-- 📂 Source Code: [GitHub Repo](https://github.com/mulatu-yirga/mulatu-yirga)  
+🔗 Live Demo: [Your Website](https://mulatu.gt.tc/)  
+📂 Source Code: [GitHub Repo](https://github.com/mulatu-yirga/mulatu-yirga)  
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+💻 Programming Languages
 - C++  
 - JavaScript  
 - PHP  
 
-### ⚙️ Frameworks & Technologies
+⚙️ Frameworks & Technologies
 - Laravel  
 - Vue.js  
 - HTML5 & CSS3  
 
-### 🛠️ Tools
+🛠️ Tools
 - Git & GitHub  
 - MySQL  
 - VS Code  
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mulatu-yirga&show_icons=true)
 
 ---
 
-## 🎯 Professional Goals
+🎯 Professional Goals
 
 - Contribute to impactful research in Computer Networks and AI  
 - Develop scalable and intelligent systems  
@@ -74,14 +74,14 @@
 
 ---
 
-## 📫 Contact Me
+📫 Contact Me
 
-- 📧 Email: mulatyir@gmail.com/mulatu.yirga@wu.edu.et 
-- 🌐 GitHub: [Your GitHub](https://github.com/personal-website)  
-- 🌐 Personal Website: [Link](https://mulatu.gt.tc/)  
+📧 Email: mulatyir@gmail.com/mulatu.yirga@wu.edu.et 
+🌐 GitHub: [Your GitHub](https://github.com/personal-website)  
+🌐 Personal Website: [Link](https://mulatu.gt.tc/)  
 
 ---
 
-## ⚡ About Me
+⚡ About Me
 
 I am a lecturer and researcher combining academic research and practical software development to solve real-world problems. I enjoy mentoring students, exploring new technologies, and contributing to innovative projects.  
